@@ -11,3 +11,15 @@ You need to have installed Node.js, NPM and MYSQL in your System.
 Installing
 ===============
 npm install
+
+Install the dependencies used by the application
+Express.js
+body-parser -for parsing the incoming request
+
+Run Server
+===============
+nodemon server.js
+```
+
+You can browse the apis at <http://localhost:3000>
+
